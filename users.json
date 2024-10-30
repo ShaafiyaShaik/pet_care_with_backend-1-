@@ -8,5 +8,35 @@
     "city": "city1",
     "sub_area": "guntur",
     "password": "123"
+  },
+  {
+    "name": "Shaik shaafiya ",
+    "phone": "8519861969",
+    "age": "18",
+    "email": "neeraja@gmail.com",
+    "pin": "1",
+    "city": "city1",
+    "sub_area": "guntur",
+    "password": "12"
+  },
+  {
+    "name": "Shrey",
+    "phone": "1234567890",
+    "age": "12",
+    "email": "shrey@gmail.com",
+    "pin": "302020",
+    "city": "city1",
+    "sub_area": "qw",
+    "password": "shrey@001"
+  },
+  {
+    "name": "Shrey",
+    "phone": "1234567890",
+    "age": "12",
+    "email": "Shrey@gmail.com",
+    "pin": "302020",
+    "city": "city1",
+    "sub_area": "qw",
+    "password": "qw"
   }
 ]
